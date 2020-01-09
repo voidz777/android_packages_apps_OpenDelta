@@ -23,16 +23,16 @@
 	<string name="url_base_update"></string>
 
 	<!-- URL base to find the full zip files, %s is replaced to be property_device value. -->
-	<string name="url_base_full">https://get.derpfest.org/%s/builds/</string>
+	<string name="url_base_full">https://androidfilehost.com/user/?w=settings-dev-files&amp;flid=300786</string>
 
 	<!-- URL base to find the full zip md5 files, %s is replaced to be property_device value. -->
-	<string name="url_base_full_md5">https://get.derpfest.org/%s/md5/</string>
+	<string name="url_base_full_md5">https://androidfilehost.com/user/?w=settings-dev-files&amp;flid=300786</string>
 
 	<!-- URL base suffix - Used only for download -->
 	<string name="url_base_suffix"></string>
 
 	<!-- URL base to fetch all builds. %s is replaced by (expanded) property_device -->
-	<string name="url_base_json">https://raw.githubusercontent.com/DerpLab/Updater-Stuff/master/%s/%s.json</string>
+	<string name="url_base_json">https://raw.githubusercontent.com/voidz777/Updater-Stuff/master/angler/angler.json</string>
 
 	<!-- Applies whole-file signature delta. Adds one extra delta step. Required if recovery verifies signatures -->
 	<item name="apply_signature" type="bool">false</item>
@@ -60,7 +60,7 @@
 		<item>i777</item>
 	</string-array>
 
-	<string name="official_version_tag">Official</string>
+	<string name="official_version_tag">Community</string>
 	<string name="weekly_version_tag">CI</string>
 	<string name="security_version_tag">SECURITY_RELEASE</string>
 
