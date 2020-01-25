@@ -23,10 +23,10 @@
 	<string name="url_base_update"></string>
 
 	<!-- URL base to find the full zip files, %s is replaced to be property_device value. -->
-	<string name="url_base_full">https://androidfilehost.com/user/?w=settings-dev-files&amp;flid=300786</string>
+	<string name="url_base_full">https://sourceforge.net/projects/voidz-angler/derpfest/files/%s/</string>
 
 	<!-- URL base to find the full zip md5 files, %s is replaced to be property_device value. -->
-	<string name="url_base_full_md5">https://androidfilehost.com/user/?w=settings-dev-files&amp;flid=300786</string>
+	<string name="url_base_full_md5">https://sourceforge.net/projects/voidz-angler/derpfest/files/%s/</string>
 
 	<!-- URL base suffix - Used only for download -->
 	<string name="url_base_suffix"></string>
